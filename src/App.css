@@ -1,0 +1,12 @@
+.App {
+
+}
+
+.App .lnb li {
+  display: inline-block;
+  width: 200px;
+  height: 30px;
+  color: violet;
+  font-weight: bold;
+  text-decoration: none;
+}

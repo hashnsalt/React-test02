@@ -1,0 +1,55 @@
+*{margin: 0; padding: 0}
+.shop_title {
+  text-align: center;
+}
+
+.best_section {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1200px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.best_section .best{
+  width: 280px;
+  font-size: 10px;
+  margin-bottom: 20px;
+}
+
+.best_section .product_info {
+  height: 150px;
+}
+
+.best_section .best p:nth-child(3) {
+  font-size: 18px;
+}
+
+.best_section .best p:nth-child(2) {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+.product {
+  width: 500px;
+  height: 500px;
+  background-color: #ccc;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  padding: 1%;
+}
+
+.price_sec {
+  overflow: hidden;
+  margin: 10px 0;
+}
+
+.price_sec button{
+  float: left;
+}
+.price_sec h3 {
+  float: left;
+  margin: 0 10px;
+}

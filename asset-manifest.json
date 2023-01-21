@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hashnsalt/React-test02/static/css/main.05eec1e5.css",
-    "main.js": "/hashnsalt/React-test02/static/js/main.316fb739.js",
-    "static/js/787.32d91862.chunk.js": "/hashnsalt/React-test02/static/js/787.32d91862.chunk.js",
-    "index.html": "/hashnsalt/React-test02/index.html",
-    "main.05eec1e5.css.map": "/hashnsalt/React-test02/static/css/main.05eec1e5.css.map",
-    "main.316fb739.js.map": "/hashnsalt/React-test02/static/js/main.316fb739.js.map",
-    "787.32d91862.chunk.js.map": "/hashnsalt/React-test02/static/js/787.32d91862.chunk.js.map"
+    "main.css": "/hashnsalt/React-test02/index.html/static/css/main.05eec1e5.css",
+    "main.js": "/hashnsalt/React-test02/index.html/static/js/main.bcd060d4.js",
+    "static/js/787.32d91862.chunk.js": "/hashnsalt/React-test02/index.html/static/js/787.32d91862.chunk.js",
+    "index.html": "/hashnsalt/React-test02/index.html/index.html",
+    "main.05eec1e5.css.map": "/hashnsalt/React-test02/index.html/static/css/main.05eec1e5.css.map",
+    "main.bcd060d4.js.map": "/hashnsalt/React-test02/index.html/static/js/main.bcd060d4.js.map",
+    "787.32d91862.chunk.js.map": "/hashnsalt/React-test02/index.html/static/js/787.32d91862.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05eec1e5.css",
-    "static/js/main.316fb739.js"
+    "static/js/main.bcd060d4.js"
   ]
 }
